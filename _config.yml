@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Devasmit Dutta / My webpage"
+title                    : "Devasmit Dutta | My webpage"
 title_separator          : "-"
 name                     : &name "Deva"
 description              : &description "personal description"
