@@ -20,6 +20,6 @@ author_profile: true
 Following works provides a demonstration of my research work in the domain of computational mechanics and machine learning architectures like Multi-layer Perceptron, and gradient-boosted library, Xgboost. 
 
 
-+ Devasmit Dutta, Dr. Mohammed M. Rahman, Akash K. Behera, An open source-implementation of a phase-field model for dynamic brittle-fracture using Gridap in Julia. _Journal of Mathematics and Mechanics of Solids._
-+ Devasmit Dutta, Dr. Ravi Prakash, Dr. M. Z. Naser, Fire Resistance Analysis of Steel Members through Artificial
-Intelligence. _Journal of Engineering Structures._
++ **Devasmit Dutta**, Dr. Mohammed M. Rahman, Akash K. Behera, An open source-implementation of a phase-field model for dynamic brittle-fracture using Gridap in Julia. **_Journal of Mathematics and Mechanics of Solids._**
++ **Devasmit Dutta**, Dr. Ravi Prakash, Dr. M. Z. Naser, Fire Resistance Analysis of Steel Members through Artificial
+Intelligence. **_Journal of Engineering Structures._**
