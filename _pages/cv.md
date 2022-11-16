@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](https://github.com/DevasmitDutta/DevasmitDutta.github.io/blob/master/files/Devasmit_Raj_Curriculum_Vitae.pdf)
+[Download CV here](https://drive.google.com/file/d/1vZ62bGn6GwcHqg7XT0aXy-fme44WlTke/view?usp=share_link)
 
