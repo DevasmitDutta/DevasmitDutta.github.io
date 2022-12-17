@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Devasmit Dutta | My webpage"
 title_separator          : "-"
-name                     : &name "Deva"
+name                     : &name "Devasmit"
 description              : &description "personal description"
 url                      : https://DevasmitDutta.github.io #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
