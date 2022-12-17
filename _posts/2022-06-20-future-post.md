@@ -1,6 +1,6 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
+title: 'Nominated for B. K. De Memorial Award for Best Innovative Bachelor's Project'
+date: 2022-06-20
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
