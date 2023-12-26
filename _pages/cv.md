@@ -9,5 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](https://drive.google.com/file/d/1oQTO5dFgNoWY33ZTphKRLd9lfOZQ7jlR/view)
-
+[Download CV here](https://github.com/DevasmitDutta/DevasmitDutta.github.io/files/13770115/AnSys___Structural_Mechanics_intern.pdf)
