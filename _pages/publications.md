@@ -17,7 +17,7 @@ author_profile: true
 
 # To be Submitted Papers
 
-Following works provides a demonstration of my research work in the domain of computational mechanics and machine learning architectures like Multi-layer Perceptron, and gradient-boosted library, Xgboost. 
+Following works provides a demonstration of my research work in the domain of computational mechanics, fracture modeling and machine learning architectures like Multi-layer Perceptron, and gradient-boosted trees, Xgboost. 
 
 
 + **Devasmit Dutta**, Dr. Mohammed M. Rahman, Akash K. Behera, An open source-implementation of a phase-field model for dynamic brittle-fracture using Gridap in Julia. **_Journal of Mathematics and Mechanics of Solids._**
