@@ -12,7 +12,7 @@ I am pursuing my Master's at UCLA (Structural Mechanics depth). Previously, I wo
 
 +  My area of interest lies in the intersection of mechanics, scientific machine learning and finite element methods.
 +  Besides, I am also proficient in computational modeling and computer aided design and engineering for analysing 3-D structural elements like beams, columns, plates, truss etc. and deformable solid bodies.
-+  I have also worked on using statistical analysis softwares like Minitab for implementing Lean-Sixgma methodologies, in industrial process optimisation and geometric dimensioning, tolerance analysis and Design of Experiments (DoE). 
++  I have also worked on using statistical analysis softwares like Minitab for implementing Lean-Six Sigma methodologies, in industrial process optimisation and geometric dimensioning, tolerance analysis and Design of Experiments (DoE). 
 +  I received my Bachelor's Degree with B. Tech (Honours) in Civil Engineering at Indian Institute of Technology (IIT), Bhubaneswar.
 +  I belong to Guwahati, Assam, India. 
 
