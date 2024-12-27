@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](https://github.com/DevasmitDutta/DevasmitDutta.github.io/files/14821601/Devasmit_CV.pdf)
+[Download CV here](https://github.com/user-attachments/files/18263516/Devasmit_Curriculum_Vitae_Final.pdf)
